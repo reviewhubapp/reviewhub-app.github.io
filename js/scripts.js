@@ -52,3 +52,19 @@ window.addEventListener('DOMContentLoaded', event => {
     });
 
 });
+
+new TypeIt("#masthead-subheading", {
+    waitUntilVisible: true,
+    speed: 75,
+  })
+    .type("I heard there is a better way to do this. It's called")
+    .exec(async () => {
+      //-- Return a promise that resolves after something happens.
+      await new Promise((resolve, reject) => {
+        setTimeout(() => {
+          return resolve();
+        }, 2000);
+      });
+    })
+    .type(" ReviewHub.")
+    .go();
