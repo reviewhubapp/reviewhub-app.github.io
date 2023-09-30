@@ -1,2 +1,2 @@
-# reviewhub-app.github.io
+# [reviewhubapp.github.io] (https://reviewhubapp.github.io)
 Bilkent CS491 - Senior Design Project
