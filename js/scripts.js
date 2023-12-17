@@ -66,5 +66,5 @@ new TypeIt("#masthead-subheading", {
         }, 2000);
       });
     })
-    .type(" ReviewHub.")
+    .type(" HubReview.")
     .go();
