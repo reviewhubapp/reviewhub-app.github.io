@@ -11,3 +11,8 @@ On systems lacking Adobe Acrobat, `qpdf` may be used to encrypt PDFss:
 for f in *.pdf; do qpdf --encrypt [pass] [pass] 256 -- "$f" "protected-$f"; done
 ```
 
+
+
+
+
+
