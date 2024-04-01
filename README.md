@@ -1,4 +1,4 @@
-# Bilkent CS 491-492 | Senior Design Project t
+# Bilkent CS 491-492 | Senior Design Project
 
 Find the project website at [cs49x.hubreview.app](https://cs49x.hubreview.app).
 
