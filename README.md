@@ -2,7 +2,7 @@
 
 Find the project website at [cs49x.hubreview.app](https://cs49x.hubreview.app).
 
-## PDF Encryption
+## PDF Encryptionaaa
 
 On systems lacking Adobe Acrobat, `qpdf` may be used to encrypt PDFs:
 
